@@ -1,2 +1,2 @@
 # piedrapapeltijeraenruby
-cachipun piedra papel y tijera en ruby mas dfd
+cachipun piedra papel y tijera en ruby mas dfd .
